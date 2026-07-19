@@ -1,100 +1,225 @@
-# Hi there 👋, I'm Hammad Shafique
+<div align="center">
 
-### 💻 Computer Science Student | Web Developer | Digital Marketing Learner
+# 👋 Hi, I'm Hammad Shafique
 
-I'm a Computer Science student who enjoys building websites, exploring mobile app development, and learning modern technologies. I believe in continuous learning and enjoy turning ideas into practical projects.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Frontend+Web+Developer;Learning+PHP+%26+MySQL;Android+Development+(Kotlin);React+Native+Learner;AI+Engineering+Enthusiast;Digital+Marketing+Learner" />
 
----
+### 🚀 Building Projects • Learning Every Day • Growing My Skills
 
-## 🚀 About Me
+<p align="center">
+<img src="https://img.shields.io/badge/Frontend-HTML5-orange?style=for-the-badge&logo=html5">
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3">
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react">
+</p>
 
-* 🎓 BS Computer Science Student
-* 🌐 Frontend Web Developer
-* 💻 Learning PHP & MySQL
-* 📱 Exploring Android Development (Kotlin)
-* ⚛️ Learning React Native
-* 🤖 Exploring AI Engineering
-* 📈 Learning Digital Marketing (Meta Ads & Social Media Marketing)
-* 🎥 Expanding my knowledge through online courses and Sir Zafar Iqbal's YouTube content
-* 🚀 Passionate about building real-world software projects
+<img src="https://komarev.com/ghpvc/?username=HammadShafique874&label=Profile+Views&color=0e75b6&style=flat" />
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-* HTML5
-* CSS3
-* JavaScript
-* PHP
-* SQL
-
-### Currently Learning
-
-* Kotlin (Android Development)
-* React Native
-* AI Engineering
-* Full Stack Web Development
-
-### Tools & Technologies
-
-* Git & GitHub
-* VS Code
-* Android Studio
-* MySQL
-* Bootstrap
-* InfinityFree
-* Meta Business Suite
+</div>
 
 ---
 
-## 📂 Featured Projects
+# 🚀 About Me
 
-### 🛠️ ServeEase
+🎓 BS Computer Science Student
 
-A responsive service booking website built with HTML, CSS, and JavaScript as a 4th semester academic project.
+💻 Passionate about Web Development and Software Engineering
 
-### 🎓 BoardWise
+📱 Currently learning Android Development with Kotlin
 
-An educational platform developed using PHP and MySQL that helps Pakistani students access board results, scholarships, educational news, and study materials.
+⚛️ Exploring React Native for Cross-Platform Mobile Apps
 
-### 🍔 Food Ordering App
+🤖 Learning AI Engineering and AI-powered Applications
 
-A semester project built with Kotlin and XML featuring user authentication, food menu, shopping cart, and bill generation.
+📈 Learning Digital Marketing (Meta Ads & Social Media Marketing)
 
-### 🏥 Medical Appointment App
+🎥 Continuously improving my skills through online courses and practical projects
 
-A React Native learning project focused on appointment booking and healthcare UI. The project is currently under development.
+🌱 I enjoy building real-world applications to strengthen my programming skills.
 
 ---
 
-## 📚 Currently Learning
+# 💻 Tech Stack
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql" />
+</p>
+
+### 📱 Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=kotlin,react" />
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,npm,firebase" />
+</p>
+
+---
+
+# 📂 Featured Projects
+
+## 🛠️ ServeEase
+
+Responsive Service Booking Website
+
+✔ HTML
+
+✔ CSS
+
+✔ JavaScript
+
+✔ Responsive UI
+
+✔ 4th Semester Project
+
+---
+
+## 🎓 BoardWise
+
+Educational Platform for Pakistani Students
+
+✔ PHP
+
+✔ MySQL
+
+✔ HTML
+
+✔ CSS
+
+✔ JavaScript
+
+Features
+
+* Board Results
+* Scholarships
+* Study Material
+* Educational News
+* Contact System
+
+---
+
+## 🍔 Food Ordering App
+
+Android Application
+
+✔ Kotlin
+
+✔ XML
+
+✔ Android Studio
+
+Features
+
+* Login
+* Signup
+* Food Menu
+* Cart
+* Bill Generation
+
+---
+
+## 🏥 Medical Appointment App
+
+React Native Learning Project
+
+Current Progress
+
+* Welcome Screen
+
+* Login
+
+* Registration
+
+* Home
+
+* Doctor List
+
+* Appointment Screen
+
+🚧 Still under development.
+
+---
+
+# 📚 Currently Learning
 
 * Full Stack Development
+
 * Android Development
+
 * React Native
+
 * AI Engineering
+
 * Digital Marketing
-* Git & GitHub Best Practices
+
+* Git & GitHub
 
 ---
 
-## 📈 GitHub Goals
+# 📊 GitHub Statistics
 
-* Build real-world projects
-* Improve problem-solving skills
-* Learn modern development technologies
-* Contribute to open-source projects
-* Grow as a Full Stack & AI Developer
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HammadShafique874&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammadShafique874&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=HammadShafique874&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 🏆 GitHub Trophies
 
-* 📧 Email: **[hmdkhan874@gmail.com](mailto:hmdkhan874@gmail.com)**
-* 💻 GitHub: **github.com/HammadShafique874**
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HammadShafique874&theme=tokyonight&margin-w=15&margin-h=15"/>
+
+</p>
 
 ---
 
-> *"Learning never stops. Every project is a step toward becoming a better developer."*
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HammadShafique874&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌎 Connect With Me
+
+<p>
+
+📧 **Email:** [hmdkhan874@gmail.com](mailto:hmdkhan874@gmail.com)
+
+💻 **GitHub:** https://github.com/HammadShafique874
+
+</p>
+
+---
+
+<div align="center">
+
+## 💬 Favorite Quote
+
+> **"Success doesn't come from what you know. It comes from what you build and continue learning."**
+
+⭐ If you like my work, consider giving a star to my repositories!
+
+</div>
