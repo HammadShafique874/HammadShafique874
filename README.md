@@ -2,18 +2,19 @@
 
 # 👋 Hi, I'm Hammad Shafique
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Frontend+Web+Developer;Learning+PHP+%26+MySQL;Android+Development+(Kotlin);React+Native+Learner;AI+Engineering+Enthusiast;Digital+Marketing+Learner" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=BS+Computer+Science+Student;Frontend+Web+Developer;PHP+%26+MySQL+Developer;Android+Development+(Kotlin);React+Native+Learner;AI+Engineering+Learner;Digital+Marketing+Learner;Always+Learning+New+Technologies" />
 
-### 🚀 Building Projects • Learning Every Day • Growing My Skills
+### 🚀 Building Projects • Learning Every Day • Growing Every Day
 
 <p align="center">
-<img src="https://img.shields.io/badge/Frontend-HTML5-orange?style=for-the-badge&logo=html5">
-<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3">
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=HammadShafique874&label=Profile+Views&color=0e75b6&style=flat" />
@@ -24,21 +25,21 @@
 
 # 🚀 About Me
 
-🎓 BS Computer Science Student
+🎓 BS Computer Science Student passionate about building practical software solutions.
 
-💻 Passionate about Web Development and Software Engineering
+💻 Frontend Web Developer with experience in HTML, CSS, JavaScript, PHP and MySQL.
 
-📱 Currently learning Android Development with Kotlin
+📱 Learning Android Development using Kotlin and XML while building real-world mobile applications.
 
-⚛️ Exploring React Native for Cross-Platform Mobile Apps
+⚛️ Exploring React Native for cross-platform mobile app development.
 
-🤖 Learning AI Engineering and AI-powered Applications
+🤖 Learning AI Engineering, Prompt Engineering, AI-powered applications, automation, and modern AI tools.
 
-📈 Learning Digital Marketing (Meta Ads & Social Media Marketing)
+📈 Learning Digital Marketing including Meta Ads, Facebook Marketing, Social Media Marketing, Branding, and Content Strategy.
 
-🎥 Continuously improving my skills through online courses and practical projects
+🎥 Continuously improving my skills through university projects, online courses, YouTube learning, and hands-on development.
 
-🌱 I enjoy building real-world applications to strengthen my programming skills.
+🌱 My goal is to become a Full Stack Software Engineer capable of building intelligent web and mobile applications.
 
 ---
 
@@ -56,73 +57,55 @@
 <img src="https://skillicons.dev/icons?i=kotlin,react" />
 </p>
 
-### 🛠 Tools
+### 🤖 AI & Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,npm,firebase" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,npm,firebase" />
 </p>
 
 ---
 
 # 📂 Featured Projects
 
-## 🛠️ ServeEase
-
-Responsive Service Booking Website
-
-✔ HTML
-
-✔ CSS
-
-✔ JavaScript
-
-✔ Responsive UI
-
-✔ 4th Semester Project
-
----
-
 ## 🎓 BoardWise
 
-Educational Platform for Pakistani Students
+Educational platform developed for Pakistani students.
 
-✔ PHP
+### Technologies
 
-✔ MySQL
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
 
-✔ HTML
+### Features
 
-✔ CSS
-
-✔ JavaScript
-
-Features
-
-* Board Results
-* Scholarships
-* Study Material
-* Educational News
-* Contact System
+- Board Results
+- National & International Scholarships
+- Educational News
+- Study Material
+- Contact System
 
 ---
 
 ## 🍔 Food Ordering App
 
-Android Application
+5th Semester Android Project
 
-✔ Kotlin
+### Technologies
 
-✔ XML
+- Kotlin
+- XML
+- Android Studio
 
-✔ Android Studio
+### Features
 
-Features
-
-* Login
-* Signup
-* Food Menu
-* Cart
-* Bill Generation
+- Splash Screen
+- Login & Signup
+- Food Menu
+- Cart System
+- Bill Generation
 
 ---
 
@@ -130,37 +113,85 @@ Features
 
 React Native Learning Project
 
-Current Progress
+### Current Progress
 
-* Welcome Screen
+- Welcome Screen
+- Login
+- Registration
+- Home Screen
+- Doctor Listing
+- Appointment Screen
 
-* Login
+🚧 Currently under development.
 
-* Registration
+---
 
-* Home
+## 🛠️ ServeEase
 
-* Doctor List
+4th Semester Project
 
-* Appointment Screen
+Modern Service Booking Website
 
-🚧 Still under development.
+### Technologies
+
+- HTML
+- CSS
+- JavaScript
+
+### Features
+
+- Responsive Design
+- Clean User Interface
+- Service Booking Pages
+- Mobile Friendly Layout
 
 ---
 
 # 📚 Currently Learning
 
-* Full Stack Development
+### 💻 Software Development
 
-* Android Development
+- Full Stack Web Development
+- PHP & MySQL
+- Android Development (Kotlin)
+- React Native
+- REST APIs
+- Git & GitHub
 
-* React Native
+### 🤖 Artificial Intelligence
 
-* AI Engineering
+- AI Engineering
+- Prompt Engineering
+- AI Productivity Tools
+- AI-powered Applications
+- AI Automation
 
-* Digital Marketing
+### 📈 Digital Marketing
 
-* Git & GitHub
+- Meta Ads
+- Facebook Advertising
+- Social Media Marketing
+- Content Strategy
+- Branding
+- Audience Targeting
+
+---
+
+# 🎯 Current Goals
+
+✅ Improve Full Stack Development Skills
+
+✅ Build More Android Applications
+
+✅ Complete React Native Projects
+
+✅ Learn AI Engineering & AI Automation
+
+✅ Master Digital Marketing
+
+✅ Contribute More on GitHub
+
+✅ Build Real-World Portfolio Projects
 
 ---
 
@@ -204,22 +235,18 @@ Current Progress
 
 # 🌎 Connect With Me
 
-<p>
-
-📧 **Email:** [hmdkhan874@gmail.com](mailto:hmdkhan874@gmail.com)
+📧 **Email:** hmdkhan874@gmail.com
 
 💻 **GitHub:** https://github.com/HammadShafique874
-
-</p>
 
 ---
 
 <div align="center">
 
-## 💬 Favorite Quote
+# 💬 Favorite Quote
 
-> **"Success doesn't come from what you know. It comes from what you build and continue learning."**
+> **"Learning never stops. Every project is another step toward becoming a better developer."**
 
-⭐ If you like my work, consider giving a star to my repositories!
+⭐ Thanks for visiting my profile. If you like my work, don't forget to ⭐ my repositories!
 
 </div>
