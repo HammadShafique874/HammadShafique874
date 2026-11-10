@@ -48,19 +48,19 @@
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
 ### 📱 Mobile Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=kotlin,react" />
+<img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ### 🤖 AI & Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,npm,firebase" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,npm" />
 </p>
 
 ---
