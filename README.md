@@ -27,15 +27,15 @@
 
 🎓 BS Computer Science Student passionate about building practical software solutions.
 
-💻 Frontend Web Developer with experience in HTML, CSS, JavaScript, PHP and MySQL.
+💻 Frontend Web Developer with experience in HTML, CSS, JavaScript
 
-📱 Learning Android Development using Kotlin and XML while building real-world mobile applications.
+
 
 ⚛️ Exploring React Native for cross-platform mobile app development.
 
 🤖 Learning AI Engineering, Prompt Engineering, AI-powered applications, automation, and modern AI tools.
 
-📈 Learning Digital Marketing including Meta Ads, Facebook Marketing, Social Media Marketing, Branding, and Content Strategy.
+ Digital Marketer including Meta Ads, Facebook Marketing, Social Media Marketing, Branding, and Content Strategy.
 
 🎥 Continuously improving my skills through university projects, online courses, YouTube learning, and hands-on development.
 
