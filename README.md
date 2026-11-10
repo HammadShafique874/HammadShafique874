@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Hammad Shafique
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=BS+Computer+Science+Student;Frontend+Web+Developer;PHP+%26+MySQL+Developer;Android+Development+(Kotlin);React+Native+Learner;AI+Engineering+Learner;Digital+Marketing+Learner;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=BS+Computer+Science+Student;Frontend+Web+Developer;PHP+%26+MySQL+Developer;Android+Development+(Kotlin);React+Native+Learner;AI+Engineering+Learner;Digital+Marketer;Always+Learning+New+Technologies" />
 
 ### 🚀 Building Projects • Learning Every Day • Growing Every Day
 
